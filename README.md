@@ -1,2 +1,2 @@
 # Pytorch-RL-Deconvolution
-richardson-lucy convolution
+Richardson-Lucy convolution
